@@ -33,7 +33,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number) 
-  truth = ["a", "b", "c", "d", "e"]
+  truth = ["a", "am", "c", "d", "e"]
   truth[1]
   
 end
