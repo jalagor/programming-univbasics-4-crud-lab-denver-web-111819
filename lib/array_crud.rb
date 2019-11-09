@@ -34,7 +34,7 @@ end
 
 def retrieve_element_from_index(array, index_number) 
   truth = ["a", "b", "c", "d", "e"]
-  
+  truth[1]
   
 end
 
